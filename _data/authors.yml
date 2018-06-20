@@ -1,0 +1,9 @@
+# /_data/authors.yml
+
+王城:
+  name: "王城"
+  uri: "http://thewhip.com"
+  email: "billy@rick.com"
+  bio: "What do you want, jewels? I am a very extravagant man."
+  avatar: "/assets/images/bio-photo-2.jpg"
+  twitter: "twitter"
