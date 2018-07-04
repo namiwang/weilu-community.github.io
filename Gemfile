@@ -24,6 +24,7 @@ group :jekyll_plugins do
   # NOTE use remote-theme on local is so slow...
   # gem 'jekyll-remote-theme'
   gem 'minimal-mistakes-jekyll'
+  gem 'jekyll-paginate'
 end
 
 # # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

@@ -129,6 +129,7 @@ DEPENDENCIES
   jekyll (~> 3.8.2)
   jekyll-admin
   jekyll-feed
+  jekyll-paginate
   minimal-mistakes-jekyll
 
 BUNDLED WITH
