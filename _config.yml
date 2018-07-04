@@ -19,6 +19,7 @@ minimal_mistakes_skin: dirt # "default" # "air", "aqua", "contrast", "dark", "di
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-titles-from-headings
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

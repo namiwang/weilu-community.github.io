@@ -2,5 +2,6 @@
   name: "王城"
   avatar: "/assets/avatars/default.png"
 
-  # NOTE this is an undocumented attr, yet it works
-  home: '/authors/王城/'
+  # TODO enable
+  # NOTE this is an undocumented attr, which works
+  # home: '/authors/王城/'
