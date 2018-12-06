@@ -26,6 +26,7 @@ group :jekyll_plugins do
   gem 'minimal-mistakes-jekyll'
   gem 'jekyll-paginate'
   gem 'jekyll-titles-from-headings'
+  gem 'jekyll-include-cache'
 end
 
 # # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

@@ -134,6 +134,7 @@ DEPENDENCIES
   jekyll (~> 3.8.2)
   jekyll-admin
   jekyll-feed
+  jekyll-include-cache
   jekyll-paginate
   jekyll-titles-from-headings
   minimal-mistakes-jekyll

@@ -20,6 +20,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-titles-from-headings
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
